@@ -26,20 +26,19 @@ Designed and analyzed a multi-switch Layer 2 topology to understand redundancy, 
 - Root bridge election logic
 - Network failover testing
 - Traffic engineering at Layer 2
-
 ## Screenshots
 
 ### Root Bridge Verification
-![Root Bridge](Root Bridge Verification.png)
+![Root Bridge](root-bridge.png)
 
 ### Port Disabled (Failure Simulation)
-![Port Disabled](Port Disabled.png)
+![Port Disabled](port-disabled.png)
 
 ### Port Blocking State
-![Port Blocking](Port Blocking.png)
+![Port Blocking](port-blocking.png)
 
 ### STP Forwarding State
-![STP Forwarding](STP Forwarding State.png)
+![STP Forwarding](stp-forwarding.png)
 
 ### Packet Loss During Convergence
-![Ping Packet Loss](Ping With Packet Loss.png)
+![Ping Packet Loss](ping-packet-loss.png)
